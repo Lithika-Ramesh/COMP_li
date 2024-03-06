@@ -1,0 +1,2 @@
+To implement my code, just run the Main class and choose which implementation you want for which type of ring. 
+The code is wrong for the number of messages and rounds. Both algorithm just follow the pseudocode given. 
